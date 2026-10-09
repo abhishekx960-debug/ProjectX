@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "969855855238",
+    "firebase_url": "https://secretproject-35363-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "secretproject-35363",
+    "storage_bucket": "secretproject-35363.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969855855238:android:e6c64168e0481f05f47f07",
+        "android_client_info": {
+          "package_name": "com.example.secretproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjMRhYH9L9C0YwpXa66qQ9SR4ggc3Tzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
